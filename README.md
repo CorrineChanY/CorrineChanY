@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :meat_on_bone: Meat lover
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorrineChanY&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorrineChanY)](https://github.com/anuraghazra/github-readme-stats)
