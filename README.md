@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- :orange_book: Focusing on Swift & iOS
+<!-- 
+- :orange_book: Focusing on Web front end
 - :hammer: Creator of applications and frameworks
-- :meat_on_bone: Meat lover
+- :meat_on_bone: Meat lover -->
 
+- 🔭 I’m currently working on Web front end
+- 🏫 I’m currently studying in [HUST](http://english.hust.edu.cn/), Wuhan, Hubei, China
+- 📫 How to reach me: corrinechan0909@gmail.com
+<!-- - 🌱 I’m currently learning machine learning & deep learning -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorrineChanY&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorrineChanY) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorrineChanY)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorrineChanY&show_icons=true&theme=radical)
+
