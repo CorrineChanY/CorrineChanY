@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web front end
 - 🏫 I’m currently studying in [HUST](http://english.hust.edu.cn/), Wuhan, Hubei, China
 - 📫 How to reach me: corrinechan0909@gmail.com
-<!-- - 🌱 I’m currently learning machine learning & deep learning -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorrineChanY) -->
 
